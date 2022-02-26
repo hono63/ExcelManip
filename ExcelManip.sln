@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExcelManip", "ExcelManip.vcxproj", "{13D56B93-4E54-442D-9CF0-2AA17A6BA404}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D56B93-4E54-442D-9CF0-2AA17A6BA404}.Debug|x64.ActiveCfg = Debug|x64
+		{13D56B93-4E54-442D-9CF0-2AA17A6BA404}.Debug|x64.Build.0 = Debug|x64
+		{13D56B93-4E54-442D-9CF0-2AA17A6BA404}.Debug|x86.ActiveCfg = Debug|Win32
+		{13D56B93-4E54-442D-9CF0-2AA17A6BA404}.Debug|x86.Build.0 = Debug|Win32
+		{13D56B93-4E54-442D-9CF0-2AA17A6BA404}.Release|x64.ActiveCfg = Release|x64
+		{13D56B93-4E54-442D-9CF0-2AA17A6BA404}.Release|x64.Build.0 = Release|x64
+		{13D56B93-4E54-442D-9CF0-2AA17A6BA404}.Release|x86.ActiveCfg = Release|Win32
+		{13D56B93-4E54-442D-9CF0-2AA17A6BA404}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4AABE43-6678-408E-B1BF-F60983DC8B49}
+	EndGlobalSection
+EndGlobal
